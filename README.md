@@ -27,7 +27,12 @@ No need to install anything to view this project; you can view it [here](https:/
 
 ## Screenshots
 
-![screenshot](assets/images/fullpage-ss.png)
+![screenshot](assets/images/screenshot1.png)
+![screenshot](assets/images/screenshot2.png)
+![screenshot](assets/images/screenshot3.png)
+![screenshot](assets/images/screenshot4.png)
+
+
 
 ## License
 
